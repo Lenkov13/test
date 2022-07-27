@@ -1,7 +1,5 @@
-echo "# test" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Lenkov13/test.git
-git push -u origin main
+numpy>=1.18.5
+pandas>=1.0.5
+seaborn>=0.9.0
+matplotlib>=2.1.0
+scikit-learn>=0.23.2
