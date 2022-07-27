@@ -4,4 +4,4 @@ seaborn>=0.9.0
 matplotlib>=2.1.0
 scikit-learn>=0.23.2
 geopandas >= 0.10.2
-geoplot >= 3.7.0
+geoplot >= 0.5.1
